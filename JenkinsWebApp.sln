@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsWebApp", "JenkinsWebApp\JenkinsWebApp.csproj", "{12695D70-B2C0-4CF8-AAAE-8D1A840F98D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsWebApp.Nunit", "JenkinsWebApp.Nunit\JenkinsWebApp.Nunit.csproj", "{8EDF4429-251A-416D-BB68-93F227191BCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsWebApp.Lib", "JenkinsWebApp.Lib\JenkinsWebApp.Lib.csproj", "{D1670D91-4F6E-460F-B46E-E4395FB36682}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12695D70-B2C0-4CF8-AAAE-8D1A840F98D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12695D70-B2C0-4CF8-AAAE-8D1A840F98D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12695D70-B2C0-4CF8-AAAE-8D1A840F98D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12695D70-B2C0-4CF8-AAAE-8D1A840F98D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1670D91-4F6E-460F-B46E-E4395FB36682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1670D91-4F6E-460F-B46E-E4395FB36682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1670D91-4F6E-460F-B46E-E4395FB36682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1670D91-4F6E-460F-B46E-E4395FB36682}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

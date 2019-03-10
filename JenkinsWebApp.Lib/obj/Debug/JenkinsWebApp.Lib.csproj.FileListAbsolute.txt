@@ -1,0 +1,5 @@
+c:\users\satya garapati\documents\visual studio 2015\Projects\JenkinsWebApp\JenkinsWebApp.Lib\bin\Debug\JenkinsWebApp.Lib.dll
+c:\users\satya garapati\documents\visual studio 2015\Projects\JenkinsWebApp\JenkinsWebApp.Lib\bin\Debug\JenkinsWebApp.Lib.pdb
+c:\users\satya garapati\documents\visual studio 2015\Projects\JenkinsWebApp\JenkinsWebApp.Lib\obj\Debug\JenkinsWebApp.Lib.csprojResolveAssemblyReference.cache
+c:\users\satya garapati\documents\visual studio 2015\Projects\JenkinsWebApp\JenkinsWebApp.Lib\obj\Debug\JenkinsWebApp.Lib.dll
+c:\users\satya garapati\documents\visual studio 2015\Projects\JenkinsWebApp\JenkinsWebApp.Lib\obj\Debug\JenkinsWebApp.Lib.pdb
