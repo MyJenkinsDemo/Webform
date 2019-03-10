@@ -33,3 +33,38 @@ c:\users\satya garapati\documents\visual studio 2015\Projects\JenkinsWebApp\Jenk
 c:\users\satya garapati\documents\visual studio 2015\Projects\JenkinsWebApp\JenkinsWebApp\obj\Debug\JenkinsWebApp.pdb
 c:\users\satya garapati\documents\visual studio 2015\Projects\JenkinsWebApp\JenkinsWebApp\bin\JenkinsWebApp.Lib.dll
 c:\users\satya garapati\documents\visual studio 2015\Projects\JenkinsWebApp\JenkinsWebApp\bin\JenkinsWebApp.Lib.pdb
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\ApplicationInsights.config
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\roslyn\csc.exe
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\roslyn\vbc.exe
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\roslyn\VBCSCompiler.exe
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\JenkinsWebApp.dll.config
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\JenkinsWebApp.dll
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\JenkinsWebApp.pdb
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\JenkinsWebApp.Lib.dll
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\Microsoft.AI.Web.dll
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\Microsoft.ApplicationInsights.dll
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\JenkinsWebApp.Lib.pdb
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\Microsoft.AI.Web.xml
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\Microsoft.ApplicationInsights.xml
+C:\JenkinsDemo_Webform\JenkinsWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\JenkinsDemo_Webform\JenkinsWebApp\obj\Debug\JenkinsWebApp.csprojResolveAssemblyReference.cache
+C:\JenkinsDemo_Webform\JenkinsWebApp\obj\Debug\JenkinsWebApp.dll
+C:\JenkinsDemo_Webform\JenkinsWebApp\obj\Debug\JenkinsWebApp.pdb
